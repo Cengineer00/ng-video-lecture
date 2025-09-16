@@ -1,3 +1,6 @@
+# Noktalı Virgül - Sıfırdan ChatGPT Geliştirmek
+
+[Sıfırdan ChatGPT Geliştirmek - Kodlaması ve anlatımı](https://youtu.be/_brLydbMO6k) videosunda geliştirilen kodların eklendiği forked repo.
 
 # nanogpt-lecture
 
